@@ -1,1 +1,5 @@
-mylog.log
+# '/' is used to ignore the files which are present in current directory only
+/mylog.log
+# '*' is used to ignore all log files
+*.log
+# '/' means folder
