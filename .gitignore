@@ -3,3 +3,5 @@
 # '*' is used to ignore all log files
 *.log
 # '/' means folder
+# ignore/ means files ignore folder should be ignored
+ignore/
