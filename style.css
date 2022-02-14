@@ -12,3 +12,10 @@
 h1{
     margin: 10px 0px 27px;
 }
+ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    padding: 10px;
+}
